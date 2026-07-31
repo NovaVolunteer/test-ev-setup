@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "test-ev-setup"
+version = "0.1.0"
+description = "Add a one-line description here."
+requires-python = ">=3.13"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"
+
+[tool.ruff.lint]
+# E/F: pyflakes + pycodestyle. I: import sorting (replaces isort).
+# UP: pyupgrade. B: common bugs. Add rules as the project matures.
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501"]  # black already handles line length
+
+[tool.ruff.lint.per-file-ignores]
+# Exploratory notebooks import things they haven't used yet and put imports
+# below prose cells. Both are normal there and neither is worth a warning.
+"notebooks/*" = ["F401", "E402", "B018", "I001"]
+"*.ipynb" = ["F401", "E402", "B018", "I001"]
+
+[tool.black]
+line-length = 100
+target-version = ["py313"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-v --tb=short"
