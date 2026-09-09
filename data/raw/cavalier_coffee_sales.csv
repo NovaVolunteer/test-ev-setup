@@ -1,0 +1,226 @@
+date,cart_location,day_of_week,cups_sold,revenue_usd,avg_temp_f,rain,home_football_game
+2026-09-01,rotunda ,Tuesday,197,829.6,48.9,no,no
+2026-09-01,Clemons,Tuesday,238,1018.59,48.9,no,no
+2026-09-01,Rice Hall,Tuesday,163,699.97,48.9,no,no
+2026-09-01,AFC Gym,Tuesday,124,514.61,48.9,no,no
+2026-09-02,Rotunda,Wednesday,193,812.23,49.1,no,no
+2026-09-02,Clemons,Wednesday,268,1124.8,49.1,no,no
+2026-09-02,Rice Hall,Wednesday,132,567.48,49.1,no,no
+2026-09-02,AFC Gym,Wednesday,134,570.85,49.1,no,no
+2026-09-03,Rotunda,Thursday,173,746.33,69.2,yes,no
+2026-09-03,Clemons,Thursday,208,893.17,69.2,yes,no
+2026-09-03,Rice Hall,Thursday,123,520.43,69.2,yes,no
+2026-09-03,AFC Gym,Thursday,80,329.66,69.2,yes,no
+2026-09-04,Rotunda,Friday,185,782.65,60.1,no,no
+2026-09-04,Clemons,Friday,252,1081.42,60.1,no,no
+2026-09-04,Rice Hall,Friday,158,664.44,60.1,no,no
+2026-09-04,AFC Gym,Friday,92,397.89,60.1,no,no
+2026-09-05,Rotunda,Saturday,280,1177.36,83.0,no,yes
+2026-09-05,Clemons,Saturday,340,1454.88,83.0,no,yes
+2026-09-05,Rice Hall,Saturday,218,938.06,83.0,no,yes
+2026-09-05,AFC Gym,Saturday,154,656.82,83.0,no,yes
+2026-09-06,Rotunda,Sunday,116,501.19,49.6,no,no
+2026-09-06,Clemons,Sunday,141,609.91,49.6,no,no
+2026-09-06,Rice Hall,Sunday,105,434.28,49.6,no,no
+2026-09-06,AFC Gym,Sunday,64,270.6,49.6,no,no
+2026-09-07,Rotunda,Monday,202,849.79,53.9,no,no
+2026-09-07,Clemons,Monday,247,1055.8,53.9,no,no
+2026-09-07,Rice Hall,Monday,163,697.19,53.9,no,no
+2026-09-07,AFC Gym,Monday,128,548.05,53.9,no,no
+2026-09-08,Rotunda,Tuesday,209,884.63,56.8,no,no
+2026-09-08,Clemons,Tuesday,289,1232.45,56.8,no,no
+2026-09-08,Rice Hall,Tuesday,155,650.34,720,no,no
+2026-09-08,AFC Gym,Tuesday,110,477.79,56.8,no,no
+2026-09-09,Rotunda,Wednesday,182,782.65,56.2,no,no
+2026-09-09,Clemons,Wednesday,255,1076.78,56.2,no,no
+2026-09-09,Rice Hall,Wednesday,133,577.64,56.2,no,no
+2026-09-09,AFC Gym,Wednesday,126,546.79,56.2,no,no
+2026-09-10,Rotunda,Thursday,205,882.79,71.6,no,no
+2026-09-10,Clemons,Thursday,271,1150.52,71.6,no,no
+2026-09-10,Rice Hall,Thursday,136,567.19,71.6,no,no
+2026-09-10,AFC Gym,Thursday,137,584.09,71.6,no,no
+2026-09-11,Rotunda,Friday,237,1009.76,69.0,no,no
+2026-09-11,Clemons,Friday,253,1066.83,69.0,no,no
+2026-09-11,Rice Hall,Friday,128,544.29,69.0,no,no
+2026-09-11,AFC Gym,Friday,95,411.42,69.0,no,no
+2026-09-12,Rotunda,Saturday,114,493.26,53.5,no,no
+2026-09-12,Clemons,Saturday,154,657.39,53.5,no,no
+2026-09-12,Rice Hall,Saturday,86,361.95,53.5,no,no
+2026-09-12,AFC Gym,Saturday,71,302.62,53.5,no,no
+2026-09-13,Rotunda,Sunday,108,464.41,79.0,no,no
+2026-09-13,Clemons,Sunday,142,608.95,79.0,no,no
+2026-09-12,Clemons,Saturday,154,657.39,53.5,no,no
+2026-09-13,Rice Hall,Sunday,92,398.53,79.0,no,no
+2026-09-13,AFC Gym,Sunday,83,356.98,79.0,no,no
+2026-09-14,Rotunda,Monday,156,648.1,63.7,yes,no
+2026-09-14,Clemons,Monday,207,891.03,63.7,yes,no
+2026-09-14,Rice Hall,Monday,102,447.66,63.7,yes,no
+2026-09-14,AFC Gym,Monday,103,428.11,63.7,yes,no
+2026-09-15,Rotunda,Tuesday,199,856.0,79.3,no,no
+2026-09-15,Clemons,Tuesday,262,1116.77,79.3,no,no
+2026-09-15,Rice Hall,Tuesday,129,544.47,79.3,no,no
+2026-09-15,AFC Gym,Tuesday,100,426.18,79.3,no,no
+2026-09-16,Rotunda,Wednesday,180,767.97,67.1,no,no
+2026-09-16,Clemons,Wednesday,261,-1094.83,67.1,no,no
+2026-09-16,Rice Hall,Wednesday,179,756.64,67.1,no,no
+2026-09-16,AFC Gym,Wednesday,143,616.95,67.1,no,no
+2026-09-17,Rotunda,Thursday,162,701.91,56.7,yes,no
+2026-09-17,Clemons,Thursday,176,754.96,56.7,yes,no
+2026-09-17,Rice Hall,Thursday,129,535.33,56.7,yes,no
+2026-09-17,AFC Gym,Thursday,103,438.73,56.7,yes,no
+2026-09-18,rotunda ,Friday,180,766.49,71.8,yes,no
+2026-09-18,Clemons,Friday,184,782.83,71.8,yes,no
+2026-09-18,Rice Hall,Friday,,499.19,71.8,yes,no
+2026-09-18,AFC Gym,Friday,77,340.12,71.8,yes,no
+2026-09-19,Rotunda,Saturday,310,1311.85,72.8,no,yes
+2026-09-19,Clemons,Saturday,374,1594.0,72.8,no,yes
+2026-09-19,Rice Hall,Saturday,202,870.49,72.8,no,yes
+2026-09-19,AFC Gym,Saturday,161,672.88,72.8,no,yes
+2026-09-20,Rotunda,Sunday,97,413.87,60.2,yes,no
+2026-09-20,Clemons,Sunday,120,501.61,60.2,yes,no
+2026-09-20,Rice Hall,Sunday,55,239.99,60.2,yes,no
+2026-09-20,AFC Gym,Sunday,41,166.12,60.2,yes,no
+2026-09-21,Rotunda,Monday,184,782.42,78.9,no,no
+2026-09-21,Clemons,Monday,247,1054.82,78.9,no,no
+2026-09-21,Rice Hall,Monday,133,566.43,78.9,no,no
+2026-09-21,AFC Gym,Monday,136,591.07,78.9,no,no
+2026-09-22,Rotunda,Tuesday,230,976.69,65.0,no,no
+2026-09-22,Clemons,Tuesday,256,1078.71,65.0,no,no
+2026-09-22,Rice Hall,Tuesday,126,540.27,65.0,no,no
+2026-09-22,AFC Gym,Tuesday,112,473.71,65.0,no,no
+2026-09-23,Rotunda,Wednesday,223,952.35,74.2,no,no
+2026-09-23,Clemons,Wednesday,271,1139.7,74.2,no,no
+2026-09-23,Rice Hall,Wednesday,145,623.1,74.2,no,no
+2026-09-23,AFC Gym,Wednesday,141,610.1,74.2,no,no
+2026-09-24,ROTUNDA,Thursday,156,652.21,54.8,yes,no
+2026-09-24,Clemons,Thursday,180,758.36,54.8,yes,no
+2026-09-24,Rice Hall,Thursday,101,440.48,54.8,yes,no
+2026-09-24,AFC Gym,Thursday,70,295.79,54.8,yes,no
+2026-09-25,Rotunda,Friday,183,782.31,67.8,no,no
+2026-09-25,Clemons,Friday,264,1132.08,67.8,no,no
+2026-09-25,Rice Hall,Friday,125,544.04,67.8,no,no
+2026-09-25,AFC Gym,Friday,144,604.09,67.8,no,no
+2026-09-26,Rotunda,Saturday,141,596.28,65.3,no,no
+2026-09-26,Clemons,Saturday,139,580.69,65.3,no,no
+2026-09-26,Rice Hall,Saturday,72,320.56,65.3,no,no
+2026-09-26,AFC Gym,Saturday,63,280.55,65.3,no,no
+2026-09-27,Rotunda,Sunday,134,583.22,58.3,no,no
+2026-09-27,Clemons,Sunday,168,715.67,58.3,no,no
+2026-09-27,Rice Hall,Sunday,99,420.35,58.3,no,no
+2026-09-27,AFC Gym,Sunday,61,253.15,58.3,no,no
+2026-09-28,Rotunda,Monday,214,896.33,68.9,no,no
+2026-09-28,Clemons,Monday,250,1049.21,68.9,no,no
+2026-09-28,Rice Hall,Monday,157,666.55,68.9,no,no
+2026-09-28,AFC Gym,Monday,148,639.58,68.9,no,no
+2026-09-29,Rotunda,Tuesday,138,597.04,82.6,yes,no
+2026-09-29,Clemons,Tuesday,175,746.6,82.6,yes,no
+2026-09-29,Rice Hall,Tuesday,122,529.35,82.6,yes,no
+2026-09-29,AFC Gym,Tuesday,86,354.1,82.6,yes,no
+2026-09-30,Rotunda,Wednesday,218,912.69,56.9,no,no
+2026-09-30,Clemons,Wednesday,235,996.33,56.9,no,no
+2026-09-30,Rice Hall,Wednesday,157,669.21,56.9,no,no
+2026-09-30,AFC Gym,Wednesday,110,480.54,56.9,no,no
+2026-10-01,Rotunda,Thursday,146,613.47,73.8,yes,no
+2026-10-01,Clemons,Thursday,178,761.65,73.8,yes,no
+2026-10-01,Rice Hall,Thursday,104,440.72,73.8,yes,no
+2026-10-01,AFC Gym,Thursday,111,479.31,73.8,yes,no
+2026-10-02,Rotunda,Friday,,703.38,64.5,yes,no
+2026-10-02,Clemons,Friday,175,744.88,64.5,yes,no
+2026-10-02,Rice Hall,Friday,114,477.46,64.5,yes,no
+2026-10-02,AFC Gym,Friday,111,467.22,64.5,yes,no
+2026-10-03,Rotunda,Saturday,203,852.48,56.8,yes,yes
+2026-10-03,Clemons,Saturday,291,1238.05,56.8,yes,yes
+2026-10-03,Rice Hall,Saturday,142,606.85,56.8,yes,yes
+2026-10-03,AFC Gym,Saturday,144,616.62,56.8,yes,yes
+2026-10-04,Rotunda,Sunday,89,391.2,77.4,yes,no
+2026-10-04,Clemons,Sunday,,459.42,77.4,yes,no
+2026-10-04,Rice Hall,Sunday,57,235.18,77.4,yes,no
+2026-10-04,AFC Gym,Sunday,65,264.46,77.4,yes,no
+2026-10-05,rotunda ,Monday,218,917.82,57.8,no,no
+2026-10-05,Clemons,Monday,251,1057.86,57.8,no,no
+2026-10-05,Rice Hall,Monday,160,690.59,57.8,no,no
+2026-10-05,AFC Gym,Monday,122,518.16,57.8,no,no
+2026-10-06,Rotunda,Tuesday,185,790.28,78.5,no,no
+2026-10-06,Clemons,Tuesday,283,1196.05,78.5,no,no
+2026-10-06,Rice Hall,Tuesday,120,505.01,78.5,no,no
+2026-10-06,AFC Gym,Tuesday,98,420.61,78.5,no,no
+2026-10-07,Rotunda,Wednesday,215,919.92,74.7,no,no
+2026-10-07,Clemons,Wednesday,265,1111.54,74.7,no,no
+2026-10-07,Rice Hall,Wednesday,124,540.35,74.7,no,no
+2026-10-07,AFC Gym,Wednesday,134,581.62,74.7,no,no
+2026-10-08,Rotunda,Thursday,217,923.83,78.0,no,no
+2026-10-08,Clemons,Thursday,257,1081.07,78.0,no,no
+2026-10-08,Rice Hall,Thursday,139,586.69,78.0,no,no
+2026-10-08,AFC Gym,Thursday,149,642.13,78.0,no,no
+2026-10-09,Rotunda,Friday,193,825.71,80.4,no,no
+2026-10-09,Clemons,Friday,272,1144.08,80.4,no,no
+2026-10-09,Rice Hall,Friday,169,720.05,80.4,no,no
+2026-10-09,AFC Gym,Friday,145,613.44,80.4,no,no
+2026-10-10,Rotunda,Saturday,143,599.85,53.6,no,no
+2026-10-10,Clemons,Saturday,144,626.29,53.6,no,no
+2026-10-10,Rice Hall,Saturday,102,423.81,53.6,no,no
+2026-10-10,AFC Gym,Saturday,69,278.99,53.6,no,no
+2026-10-11,Rotunda,Sunday,143,605.1,60.0,no,no
+2026-10-11,Clemons,Sunday,163,703.67,60.0,no,no
+2026-10-11,Rice Hall,Sunday,102,425.95,60.0,no,no
+2026-10-11,AFC Gym,Sunday,60,263.62,60.0,no,no
+2026-10-12,Rotunda,Monday,175,742.87,79.4,yes,no
+2026-10-12,Clemons,Monday,181,778.75,79.4,yes,no
+2026-10-12,Rice Hall,Monday,111,467.24,79.4,yes,no
+2026-10-12,AFC Gym,Monday,106,459.36,79.4,yes,no
+2026-10-13,Rotunda,Tuesday,144,608.95,48.9,yes,no
+2026-10-13,Clemons,Tuesday,185,797.18,48.9,yes,no
+2026-10-13,Rice Hall,Tuesday,126,528.87,48.9,yes,no
+2026-10-13,AFC Gym,Tuesday,98,416.78,48.9,yes,no
+2026-10-14,Rotunda,Wednesday,201,867.43,78.4,no,no
+2026-10-14,Clemons,Wednesday,237,1018.56,78.4,no,no
+2026-10-14,Rice Hall,Wednesday,136,568.36,78.4,no,no
+2026-10-14,AFC Gym,Wednesday,106,436.65,78.4,no,no
+2026-10-15,Rotunda,Thursday,230,971.91,60.4,no,no
+2026-10-15,Clemons,Thursday,268,1153.53,60.4,no,no
+2026-10-15,Rice Hall,Thursday,127,536.31,60.4,no,no
+2026-10-15,AFC Gym,Thursday,126,526.2,60.4,no,no
+2026-10-16,Rotunda,Friday,159,688.52,63.7,yes,no
+2026-10-16,Clemons,Friday,198,847.11,63.7,yes,no
+2026-10-16,Rice Hall,Friday,135,581.01,63.7,yes,no
+2026-10-16,AFC Gym,Friday,99,411.66,63.7,yes,no
+2026-10-17,ROTUNDA,Saturday,326,1380.41,82.2,no,yes
+2026-10-17,Clemons,Saturday,345,1471.15,82.2,no,yes
+2026-10-17,Rice Hall,Saturday,174,746.09,82.2,no,yes
+2026-10-17,AFC Gym,Saturday,149,633.46,82.2,no,yes
+2026-10-18,Rotunda,Sunday,134,563.37,59.7,no,no
+2026-10-18,Clemons,Sunday,142,594.26,59.7,no,no
+2026-10-18,Rice Hall,Sunday,97,425.46,59.7,no,no
+2026-10-18,AFC Gym,Sunday,79,343.19,59.7,no,no
+2026-10-19,Rotunda,Monday,153,651.69,68.5,yes,no
+2026-10-19,Clemons,Monday,172,725.12,68.5,yes,no
+2026-10-19,Rice Hall,Monday,99,418.65,68.5,yes,no
+2026-10-19,AFC Gym,Monday,95,406.95,68.5,yes,no
+2026-10-20,Rotunda,Tuesday,,939.16,63.9,no,no
+2026-10-20,Clemons,Tuesday,260,1113.81,63.9,no,no
+2026-10-20,Rice Hall,Tuesday,170,729.58,63.9,no,no
+2026-10-20,AFC Gym,Tuesday,,548.54,63.9,no,no
+2026-10-21,Rotunda,Wednesday,201,842.05,70.8,no,no
+2026-10-21,Clemons,Wednesday,290,1240.03,70.8,no,no
+2026-10-21,Rice Hall,Wednesday,163,687.06,70.8,no,no
+2026-10-21,AFC Gym,Wednesday,141,590.22,70.8,no,no
+2026-10-22,rotunda ,Thursday,157,670.59,56.8,yes,no
+2026-10-22,Clemons,Thursday,209,875.43,56.8,yes,no
+2026-10-22,Rice Hall,Thursday,109,474.83,56.8,yes,no
+2026-10-22,AFC Gym,Thursday,94,390.33,56.8,yes,no
+2026-10-23,Rotunda,Friday,195,818.18,65.8,no,no
+2026-10-23,Clemons,Friday,274,1149.67,65.8,no,no
+2026-10-23,Rice Hall,Friday,168,724.81,65.8,no,no
+2026-10-23,AFC Gym,Friday,146,608.7,65.8,no,no
+2026-10-24,Rotunda,Saturday,134,570.04,54.3,no,no
+2026-10-24,Clemons,Saturday,139,592.47,54.3,no,no
+2026-10-24,Rice Hall,Saturday,106,460.95,54.3,no,no
+2026-10-24,AFC Gym,Saturday,71,290.75,54.3,no,no
+2026-10-25,Rotunda,Sunday,129,551.11,67.1,no,no
+2026-10-25,Clemons,Sunday,174,747.16,67.1,no,no
+2026-10-25,Rice Hall,Sunday,88,377.38,67.1,no,no
+2026-10-25,AFC Gym,Sunday,81,356.01,67.1,no,no
+2026-10-26,Rotunda,Monday,208,895.92,80.6,no,no
+2026-10-26,Clemons,Monday,277,1188.09,80.6,no,no
+2026-10-26,Rice Hall,Monday,148,621.78,80.6,no,no
+2026-10-26,AFC Gym,Monday,105,456.45,80.6,no,no

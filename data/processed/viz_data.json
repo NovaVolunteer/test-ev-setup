@@ -1,0 +1,48 @@
+{
+  "by_location": {
+    "locations": [
+      "Clemons",
+      "Rotunda",
+      "Rice Hall",
+      "AFC Gym",
+      "rotunda ",
+      "ROTUNDA"
+    ],
+    "revenue": [
+      51904.3,
+      38102.5,
+      30836.94,
+      25661.37,
+      3184.5,
+      2032.6200000000001
+    ],
+    "cups": [
+      12611.0,
+      8570.0,
+      7115.0,
+      5901.0,
+      752.0,
+      482.0
+    ]
+  },
+  "by_day": {
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "revenue": [
+      22809.44,
+      23142.69,
+      22893.76,
+      21379.95,
+      22935.73,
+      24315.29,
+      14245.37
+    ]
+  }
+}

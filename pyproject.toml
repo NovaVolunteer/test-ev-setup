@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "test-ev-setup"
 version = "0.1.0"
-description = "Add a one-line description here."
+description = "Design to help with the setup of the Data Science environment."
 requires-python = ">=3.13"
 dependencies = []
 
