@@ -9,6 +9,7 @@ accept the recommended extensions when prompted.
 
 **Terminal** — activate the venv:
 # comment for testing
+#comment for resting
 
 ```bash
 # macOS / Linux
