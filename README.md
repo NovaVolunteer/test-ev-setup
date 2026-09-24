@@ -8,6 +8,7 @@ The environment is already built. The goal is to use this directory as an exampl
 accept the recommended extensions when prompted.
 
 **Terminal** — activate the venv:
+#comment for testing
 
 ```bash
 # macOS / Linux
