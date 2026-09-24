@@ -2,7 +2,7 @@
 
 ### Setup
 
-The environment is already built. The goal is to use this directory as an example to help students understand the importance of folder and file construction as it relates to managing data science projects and demo git/github commands
+The environment is already built. The goal is to use this directory as an example to help students understand the importance of folder and file construction as it relates to managing various data science projects and demo git/github commands
 
 **VS Code** — open this folder. The interpreter is pinned in `.vscode/settings.json`;
 accept the recommended extensions when prompted.
